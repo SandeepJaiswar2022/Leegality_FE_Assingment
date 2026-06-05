@@ -1,6 +1,4 @@
-# BazaarFlow — Amazon-style Product Listing App
-
-A production-quality React application built with Vite, React Query, React Router, and Tailwind CSS. Features a refined dark theme, full filter system, URL-persisted state, and responsive layout.
+# BazaarFlow — Product Listing App
 
 ---
 
